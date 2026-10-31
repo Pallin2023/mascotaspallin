@@ -1,0 +1,31 @@
+.fondo-tabla{
+    margin:50px 0px;
+}
+.text-tabla{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.tabla{
+    width: 80%;
+    margin:50px auto;
+    overflow-x: auto;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+table th{
+    padding: 10px;
+    background: black;
+    color: white;
+}
+table td{
+    padding: 10px;
+}
+.descanso{
+    text-align: center;
+    color: white;
+    background: darkblue;
+    padding: 20px;
+}
